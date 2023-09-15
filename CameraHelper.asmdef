@@ -1,7 +1,9 @@
 {
     "name": "CameraHelper",
     "rootNamespace": "CameraHelper",
-    "references": [],
+    "references": [
+        "GUID:bbe8dddfeb1d8ef498dd9a99660eee03"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
